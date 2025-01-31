@@ -1,7 +1,7 @@
 ## Hi there seborid,a cumt's cser. 👋
-Learning pyhton,html,css,js,vue.
-my dream is to be a excellent backend or other position with high challenge.
-Also a hardware lover.  Imagining having 5090 one day.
+### Learning pyhton,html,css,js,vue.  
+#### my dream is to be a excellent backend or other position with high challenge.  
+#### Also a hardware lover.  Imagining having 5090 one day.  
 <!--
 **seborid/seborid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
