@@ -1,7 +1,8 @@
 # Hi,there is seborid,a cumt's cser. 👋
-这里是seborid，cumt's cser，代码苦手，安卓开发攻略中...  
+这里是seborid，cumt's cser。  
+代码苦手，安卓开发攻略中...  
 喜欢玩明日方舟，ID：994731568  
-![加载错误](./arknights.png "arkinghts")
+<img src="Arknights.png" width="600">
 
 
  languages and Frameworks  
@@ -16,7 +17,7 @@
 ![Static Badge](https://img.shields.io/badge/HTML-black)  
 
 
-Tools 
+Tools   
 ![Static Badge](https://img.shields.io/badge/VScode-blue)
 ![Static Badge](https://img.shields.io/badge/IDEA-purple)
 
