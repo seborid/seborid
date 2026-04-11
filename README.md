@@ -19,15 +19,13 @@
 
 Tools   
 ![Static Badge](https://img.shields.io/badge/VScode-blue)
-![Static Badge](https://img.shields.io/badge/IDEA-purple)
-![Static Badge](https://img.shields.io/badge/MAC-write)
-
-
-
+![Static Badge](https://img.shields.io/badge/IDEA-purple)  
 
  OS  
 ![Static Badge](https://img.shields.io/badge/Windows_11-blue)
-![Static Badge](ç/badge/Ubuntu_24.04-yellow)
+![Static Badge](https://img.shields.io/badge/Ubuntu_24.04-yellow)
+![Static Badge](https://img.shields.io/badge/MAC-write)
+
 
 
 <!--
