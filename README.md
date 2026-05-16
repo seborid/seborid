@@ -1,6 +1,6 @@
 # Hi,there is seborid,a CUMT's cser. 👋
 这里是seborid，CUMT's cser。  
-代码苦手，安卓开发攻略中...  
+代码苦手，深度学习，RAG与LangChain框架攻略中...  
 喜欢玩明日方舟，ID：994731568  
 <img src="Arknights.png" width="600">
 
